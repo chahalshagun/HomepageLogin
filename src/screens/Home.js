@@ -75,19 +75,19 @@ const Home = () => {
 
             <div className="col-lg-4 pt-3">
               <div className="col-xl-10 offset-xl-1 banner_right_up text-center">
-                <a href="#" className="btn btn-b w-100">
+                <a href="./" className="btn btn-b w-100">
                   <img src="images/icons/1.png" alt="icon" style={{ width: '28px' }} className="mr-2" />
                   Free Registration in Jindalsaw private limited for internship
                 </a>
                 <span className="orbdr1">or</span>
-                <a href="#" className="btn btn-outline-light w-75 btn-lg">
+                <a href="./" className="btn btn-outline-light w-75 btn-lg">
                   <img src="images/icons/2.png" alt="icon" style={{ width: '28px' }} className="mr-2" />
                   Sign In
                 </a>
               </div>
               <div className="col-xl-10 offset-xl-1 text-center banner_right_up mt-2 p-3">
                 <img src="images/icons/3.png" alt="icon" style={{ width: '34px' }} className="mr-2 wow tada infinite animated animated animated" />
-                <a href="tel:+910000000000" style={{ fontSize: '24px', color: '#fff' }}>+91 0000000000</a>
+                <a href="./" style={{ fontSize: '24px', color: '#fff' }}>+91 0000000000</a>
               </div>
             </div>
           </div>
